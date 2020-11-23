@@ -1,0 +1,5 @@
+﻿  HiddenOperator.cpp
+  ScoreKeeper.cpp
+  Generating Code...
+C:\Users\G.000\source\repos\HiddenOperator\PuzzleMaker.h(79): warning C4715: 'PuzzleMaker::PerformOperation': not all control paths return a value
+  HiddenOperator.vcxproj -> C:\Users\G.000\source\repos\HiddenOperator\Debug\HiddenOperator.exe
